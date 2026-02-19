@@ -100,7 +100,7 @@ Repo: **https://github.com/yash27-lab/Provectus**
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/yash-n-452384142/
-- X: https://x.com/realyashnegj
+- X: https://x.com/realyashnegi
 - Instagram: https://instagram.com/realyashnegi
-- Email: *(add your preferred email here)*
+- Email: *yashnegi492@gmail.com*
 
